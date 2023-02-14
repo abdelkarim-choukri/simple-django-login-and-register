@@ -1,0 +1,1 @@
+Activate your App account! You have {{ expiration_days }} days!
