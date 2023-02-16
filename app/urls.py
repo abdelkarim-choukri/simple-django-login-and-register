@@ -35,5 +35,6 @@ urlpatterns = [
     ),
     path("accounts/", include("django_registration.backends.activation.urls")),
     
+    
    
 ]
